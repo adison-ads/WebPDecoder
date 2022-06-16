@@ -20,7 +20,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "WebPDecoder",
-            url: "https://github.com/adison-ads/WebPDecoder/releases/download/v1.2.2/WebPDecoder_v1.2.2.zip",
+            url: "https://github.com/adison-ads/WebPDecoder/releases/download/1.2.2/WebPDecoder_v1.2.2.zip",
             checksum: "31e976d1fed76aacc8d4014799cc30022e791d17a17e6df800000d52e0ce813e")
     ]
 )
